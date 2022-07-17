@@ -1,7 +1,7 @@
 {
-  "name": "spherical-word-cloud",
+  "name": "concept-sphere",
   "version": "1.0.0",
-  "description": "A spherical word-cloud with even distribution whose words always face the camera.",
+  "description": "A spherical word-cloud for queries to concepnet.",
   "keywords": [
     "billboard",
     "wordcloud"
